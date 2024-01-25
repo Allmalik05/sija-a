@@ -1,0 +1,1 @@
+siswa = ['Nama', 'Kelas', 'Absen']
