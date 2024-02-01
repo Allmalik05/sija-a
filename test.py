@@ -1,1 +1,1 @@
-siswa = ['Nama', 'Kelas', 'Absen']
+print("Hello World")
